@@ -56,6 +56,11 @@
     grid-row: 2 / 3;
 }
 
+.profile-area {
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+}
+
 .main-content {
     grid-column: 2 / 3;
     grid-row: 2 / 3;
