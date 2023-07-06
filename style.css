@@ -67,6 +67,14 @@
     grid-template-columns: 1fr 1fr 5fr;
 }
 
+.actions-area {
+
+    justify-self: end;
+    
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+}
+
 .main-content {
     grid-column: 2 / 3;
     grid-row: 2 / 3;
