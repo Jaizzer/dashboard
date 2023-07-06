@@ -98,3 +98,10 @@
     grid-column: 3 / 4;
     grid-row: 1 / -1;
 }
+
+.trending-profile {
+    display: grid;
+
+    grid-template-columns: 1fr 8fr;
+    grid-row: 1fr 1fr;
+}
