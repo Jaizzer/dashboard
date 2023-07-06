@@ -18,3 +18,14 @@
     grid-column: 2 / 3;
     grid-row: 2 / 3;
 }
+
+.dashboard-items {
+    border: 1px solid red;
+    height: 250px;
+
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 50px 100px 60px;
+
+    align-content: space-between;
+}
