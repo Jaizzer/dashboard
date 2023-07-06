@@ -37,6 +37,23 @@
 .greeting-area {
     grid-column: 1 / 2;
     grid-row: 2 / 3;
+
+    display: grid;
+}
+
+.greeting-area > .icon {
+    grid-column: 1 / 2;
+    grid-row: 1 / 3;
+}
+
+.greeting-area > .greeting {
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+}
+
+.greeting-area > .username {
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
 }
 
 .main-content {
