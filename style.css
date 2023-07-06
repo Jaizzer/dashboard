@@ -105,3 +105,18 @@
     grid-template-columns: 1fr 8fr;
     grid-row: 1fr 1fr;
 }
+
+.trending-profile > .avatar {
+    grid-column: 1 / 2;
+    grid-row: 1 / 3;
+}
+
+.trending-profile > .username {
+    grid-column: 2 / 3;
+    grid-row: 1 / 2
+}
+
+.trending-profile > .username {
+    grid-column: 2 / 3;
+    grid-row: 2 / 3
+}
