@@ -70,9 +70,14 @@
 .actions-area {
 
     justify-self: end;
-    
+
     grid-column: 2 / 3;
     grid-row: 2 / 3;
+
+    display: grid;
+    grid-template-columns: repeat(3, 90px);
+
+    gap: 10px;
 }
 
 .main-content {
