@@ -104,7 +104,12 @@
 .main-content > .highlights {
     grid-column: 3 / 4;
     grid-row: 2 / -1;
+
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
 }
+
 
 .trending-profile {
     display: grid;
