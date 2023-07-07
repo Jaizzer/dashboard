@@ -3,6 +3,14 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+* {
+    --primary-color: #01ad84;
+    --secondary-color: #ccd8ff;
+    --accent-color: #004737;
+    --background-color: #f4f3eb;
+    --text-color: #070604;
+}
+
 .layout {
     display: grid;
     grid-template-columns: 225px 1fr;
