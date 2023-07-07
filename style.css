@@ -11,13 +11,12 @@
 
 .dashboard-items {
     border: 1px solid red;
-    height: 250px;
 
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: repeat(3, auto);
 
-    align-content: space-between;
+    gap: 20px;
 }
 
 .header {
