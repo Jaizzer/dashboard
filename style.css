@@ -27,13 +27,15 @@ body {
 
 .dashboard-title, 
 .set-1 div, .set-2 div {
-
-    padding: 3px;
-
     display: grid;
     grid-template-columns: auto 1fr;
     gap: 8px;
     align-items: center;
+}
+
+.set-1, .set-2 {
+    display: grid;
+    gap: 8px;
 }
 
 
