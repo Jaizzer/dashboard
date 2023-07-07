@@ -89,7 +89,7 @@
     grid-template-rows: 1fr repeat(4, 3fr);
 }
 
-.main-content > .headline {
+.main-content > .headline.project {
 
     grid-column: 1 / 3;
 }
