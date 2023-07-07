@@ -47,6 +47,8 @@ body {
 
 .dashboard-title, 
 .set-1 div, .set-2 div {
+    padding: 3px;
+
     display: grid;
     grid-template-columns: auto 1fr;
     gap: 8px;
@@ -55,7 +57,7 @@ body {
 
 .set-1, .set-2 {
     display: grid;
-    gap: 15px;
+    gap: 10px;
 }
 
 
