@@ -50,6 +50,10 @@ body {
     gap: 10px;
 }
 
+.icon {
+    color: var(--text-color);
+}
+
 .set-1  *:hover, 
 .set-2  *:hover, 
 .dashboard-title:hover {
