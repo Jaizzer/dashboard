@@ -92,6 +92,9 @@ body {
     grid-row: 2 / 3;
 
     display: grid;
+    grid-template-columns: auto 1fr;
+    column-gap: 15px;
+    align-items: center;
 }
 
 .greeting-area > .avatar {
