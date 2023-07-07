@@ -35,16 +35,6 @@ body {
     gap: 40px;
 }
 
-.set-1  *:hover, 
-.set-2  *:hover, 
-.dashboard-title:hover {
-    border-radius: 4px;
-
-    background-color: var(--accent-color);
-    color: var(--background-color);
-    fill: var(--background-color) ;
-}
-
 .dashboard-title, 
 .set-1 div, .set-2 div {
     padding: 3px;
@@ -60,6 +50,15 @@ body {
     gap: 10px;
 }
 
+.set-1  *:hover, 
+.set-2  *:hover, 
+.dashboard-title:hover {
+    border-radius: 4px;
+
+    background-color: var(--accent-color);
+    color: var(--background-color);
+    fill: var(--background-color) ;
+}
 
 .header {
     grid-column: 2 / 3;
