@@ -15,7 +15,7 @@
 
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: 50px 100px 60px;
+    grid-template-rows: repeat(3, auto);
 
     align-content: space-between;
 }
@@ -132,6 +132,7 @@
     grid-column: 2 / 3;
     grid-row: 2 / 3
 }
+
 
 
 
