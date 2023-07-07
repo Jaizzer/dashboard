@@ -22,7 +22,7 @@ body {
     grid-template-columns: 1fr;
     grid-template-rows: repeat(3, auto);
 
-    gap: 20px;
+    gap: 40px;
 }
 
 .dashboard-title, 
