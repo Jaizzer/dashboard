@@ -132,3 +132,12 @@
     grid-column: 2 / 3;
     grid-row: 2 / 3
 }
+
+
+
+
+
+.icon {
+    width: 20px;
+    height: 20px;
+}
