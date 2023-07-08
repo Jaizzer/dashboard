@@ -311,5 +311,8 @@ input {
     font-weight: 600;
 }
 
+.announcement .description {
+    font-size: 14px;
+}
 
 
