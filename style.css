@@ -305,3 +305,11 @@ input {
 .card button:hover .icon {
     fill: var(--background-color);
 }
+
+.headline, 
+.announcement .title {
+    font-weight: 600;
+}
+
+
+
