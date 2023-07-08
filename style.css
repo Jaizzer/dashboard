@@ -375,3 +375,8 @@ input {
 .trending-card .bio {
     font-size: 14px;
 }
+
+.trending-card .avatar {
+    height: 43px;
+    width: 43px;
+}
