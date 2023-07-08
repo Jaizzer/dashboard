@@ -69,6 +69,15 @@ body div {
     align-items: center;
 }
 
+.dashboard-title {
+    font-size: 20px;
+}
+
+.dashboard-title .icon {
+    width: 30px;
+    height: 30px;
+}
+
 .set-1, .set-2 {
     display: grid;
     gap: 10px;
