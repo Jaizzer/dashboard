@@ -283,8 +283,13 @@ input {
 }
 
 .card button {
-    background-color: transparent;
+    width: auto;
+    height: auto;
+
+    border-radius: 4px;
     border: none;
+
+    background-color: transparent;
 }
 
 .card button:hover {
