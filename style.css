@@ -73,7 +73,7 @@ body {
     grid-row: 1 / 2;
 
     display: grid;
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: 6fr 5fr;
     grid-template-rows: repeat(2, auto);
 
     gap: 15px;
