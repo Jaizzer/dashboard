@@ -12,6 +12,12 @@ body {
     --text-color: #070604;
 }
 
+.icon {
+    width: 20px;
+    height: 20px;
+    fill: var(--text-color);
+}
+
 .layout {
     display: grid;
     grid-template-columns: 225px 1fr;
@@ -48,10 +54,6 @@ body {
 .set-1, .set-2 {
     display: grid;
     gap: 10px;
-}
-
-.icon {
-    color: var(--text-color);
 }
 
 .set-1  *:hover, 
@@ -285,9 +287,3 @@ input {
     border: none;
 }
 
-
-
-.icon {
-    width: 20px;
-    height: 20px;
-}
