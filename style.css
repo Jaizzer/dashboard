@@ -311,6 +311,10 @@ input {
     font-weight: 600;
 }
 
+.headline {
+    font-size: 18px;
+}
+
 .announcement .description {
     font-size: 14px;
 }
