@@ -347,6 +347,13 @@ input {
     margin-bottom: 5px;
 }
 
+.trending-card {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(4, auto);
+    gap: 14px;
+}
+
 .trending-profile {
     column-gap: 10px;
     row-gap: 3px;
@@ -356,7 +363,6 @@ input {
     align-self: end;
     font-size: 15px;
 }
-
 
 .trending-card .bio {
     font-size: 14px;
