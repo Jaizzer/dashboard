@@ -315,4 +315,13 @@ input {
     font-size: 14px;
 }
 
+.announcement-card,
+.trending-card  {
+    padding: 30px 20px;
 
+    background-color: white;
+
+    border-radius: 7px;
+
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+}
