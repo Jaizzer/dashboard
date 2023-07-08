@@ -346,3 +346,8 @@ input {
 .announcement-card .title {
     margin-bottom: 5px;
 }
+
+.trending-profile {
+    column-gap: 10px;
+    row-gap: 3px;
+}
