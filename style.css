@@ -370,6 +370,7 @@ input {
 .trending-card .username {
     align-self: end;
     font-size: 15px;
+    font-weight: 600;
 }
 
 .trending-card .bio {
