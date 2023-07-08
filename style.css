@@ -150,9 +150,9 @@ input {
     grid-row: 2 / 3;
 
     display: grid;
-    grid-template-columns: repeat(3, 90px);
+    grid-template-columns: repeat(3, auto);
 
-    gap: 10px;
+    gap: 15px;
 }
 
 .actions-area button {
