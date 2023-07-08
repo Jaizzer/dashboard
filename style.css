@@ -12,6 +12,14 @@ body {
     --text-color: #070604;
 }
 
+html {
+    height: 100vh;
+}
+
+body {
+    height: 100%;
+}
+
 body div {
     color: var(--text-color);
 }
@@ -23,6 +31,7 @@ body div {
 }
 
 .layout {
+    height: 100%;
     display: grid;
     grid-template-columns: 225px 1fr;
     grid-template-rows: auto 1fr;
