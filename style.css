@@ -12,6 +12,11 @@ body {
     --accent: #287065;
 }
 
+* {
+    box-sizing: border-box;
+}
+
+
 html {
     height: 100vh;
 }
