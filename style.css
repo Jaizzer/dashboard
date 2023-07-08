@@ -130,10 +130,16 @@ form {
 
 input {
     border-radius: 20px;
-    border: 1px solid #ccd8ff;
-    background-color: #ccd8ff;
+    border: 1px solid var(--background-color);
+    background-color: var(--background-color);
     padding: 5px 10px;
 }
+
+input:focus {
+    outline: none;
+    border: 2px solid var(--primary-color);
+}
+
 
 .greeting-area {
     grid-column: 1 / 2;
