@@ -351,3 +351,13 @@ input {
     column-gap: 10px;
     row-gap: 3px;
 }
+
+.trending-card .username {
+    align-self: end;
+    font-size: 15px;
+}
+
+
+.trending-card .bio {
+    font-size: 14px;
+}
