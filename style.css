@@ -315,6 +315,10 @@ input {
     font-size: 18px;
 }
 
+.headline.trending {
+    margin-top: 15px;
+}
+
 .announcement .description {
     font-size: 14px;
 }
