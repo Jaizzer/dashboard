@@ -333,3 +333,7 @@ input {
     grid-template-columns: 1fr;
     grid-template-rows: repeat(3, auto);
 }
+
+.announcement-card > * {
+    padding: 20px 0px;
+}
