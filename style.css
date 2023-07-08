@@ -282,6 +282,9 @@ input {
 .card .description {
     overflow: auto;
     font-size: 15px;
+
+    line-height: 25px;
+
     color: rgb(38, 37, 37)
 }
 
