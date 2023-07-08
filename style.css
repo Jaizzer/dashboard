@@ -151,6 +151,11 @@ input {
     column-gap: 15px;
 }
 
+.profile-area .avatar {
+    width: 38px;
+    height: 38px;
+}
+
 .actions-area {
 
     justify-self: end;
