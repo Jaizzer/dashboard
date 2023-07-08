@@ -95,6 +95,13 @@ form {
     gap: 10px;
 }
 
+input {
+    border-radius: 20px;
+    border: 1px solid #ccd8ff;
+    background-color: #ccd8ff;
+    padding: 5px 10px;
+}
+
 .greeting-area {
     grid-column: 1 / 2;
     grid-row: 2 / 3;
