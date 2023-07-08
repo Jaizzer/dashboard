@@ -194,6 +194,8 @@ input {
 }
 
 .main-content {
+    background-color: var(--background-color);
+
     grid-column: 2 / 3;
     grid-row: 2 / 3;
 
