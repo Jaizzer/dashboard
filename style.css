@@ -287,3 +287,10 @@ input {
     border: none;
 }
 
+.card button:hover {
+    background-color: var(--accent-color);
+}
+
+.card button:hover .icon {
+    fill: var(--background-color);
+}
