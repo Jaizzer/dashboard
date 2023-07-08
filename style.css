@@ -75,6 +75,8 @@ body {
     grid-template-rows: repeat(2, auto);
 
     background-color: white;
+
+    align-items: center;
 }
 
 .avatar {
