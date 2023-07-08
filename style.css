@@ -280,6 +280,11 @@ input {
     column-gap: 10px;
 }
 
+.card button {
+    background-color: transparent;
+    border: none;
+}
+
 
 
 .icon {
