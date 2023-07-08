@@ -195,6 +195,10 @@ input {
     color: var(--background-color);
 }
 
+.actions-area button:hover {
+    background-color: var(--accent-color);
+}
+
 .main-content {
     padding: 40px 50px 15px 25px;
 
