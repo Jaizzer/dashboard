@@ -101,7 +101,7 @@ body {
 form {
     display: grid;
     grid-template-columns: auto 1fr;
-    gap: 10px;
+    gap: 20px;
 }
 
 input {
