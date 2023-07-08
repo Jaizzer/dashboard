@@ -67,12 +67,16 @@ body {
 }
 
 .header {
+    padding: 15px 50px 15px 25px;
+
     grid-column: 2 / 3;
     grid-row: 1 / 2;
 
     display: grid;
     grid-template-columns: 2fr 1fr;
     grid-template-rows: repeat(2, auto);
+
+    gap: 15px;
 
     background-color: white;
 
