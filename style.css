@@ -5,11 +5,11 @@ body {
 }
 
 * {
-    --primary: #01ad84;
-    --secondary: #ccd8ff;
-    --accent: #004737;
-    --background: #f4f3eb;
-    --text: #070604;
+    --text: #0b231f;
+    --background: #dee9e8;
+    --primary: #4cb8a8;
+    --secondary: #cdefea;
+    --accent: #287065;
 }
 
 html {
