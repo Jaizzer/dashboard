@@ -139,6 +139,7 @@ input {
     grid-template-columns: repeat(3, auto);
     
     align-items: center;
+    column-gap: 15px;
 }
 
 .actions-area {
