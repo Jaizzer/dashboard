@@ -79,6 +79,11 @@ body {
     align-items: center;
 }
 
+.profile-area, 
+.greeting-area {
+    font-weight: 600;
+}
+
 .avatar {
     height: 50px;
     width: 50px;
