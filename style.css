@@ -218,8 +218,9 @@ input:focus {
     background-color: var(--accent);
 }
 
+
 .main-content {
-    padding: 40px 50px 15px 25px;
+    padding: 40px 50px 65px 25px;
 
     background-color: var(--background);
 
