@@ -12,6 +12,10 @@ body {
     --text-color: #070604;
 }
 
+body div {
+    color: var(--text-color);
+}
+
 .icon {
     width: 20px;
     height: 20px;
