@@ -347,8 +347,8 @@ input {
 }
 
 .announcement-card > :nth-child(2) {
-    border-top: 1px solid grey;
-    border-bottom: 1px solid grey;
+    border-top: 1px solid #b2b2b2;
+    border-bottom: 1px solid #b2b2b2;
 }
 
 .announcement-card .title {
