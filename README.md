@@ -2,6 +2,8 @@
 
 Welcome to the Stylish Dashboard project! This project showcases a web dashboard interface with modern design and functionality. Please note that some components such as buttons are currently under development and do not have functionalities enabled yet.
 
+[Live Demo](https://jaizzer.github.io/dashboard/)
+
 ## Table of Contents
 - [Description](#description)
 - [Features](#features)
